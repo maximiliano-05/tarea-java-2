@@ -1,0 +1,15 @@
+¿Cuánto es 2+2?,1;2;3;4,3,RECORDAR,SeleccionMultiple
+Capital de Francia?,Madrid;Berlín;París;Londres,2,COMPRENDER,SeleccionMultiple
+Elige el número primo,4;6;8;7,3,APLICAR,SeleccionMultiple
+La tierra es plana?,Verdadero;Falso,1,EVALUAR,VerdaderoFalso
+Java es un lenguaje de programación?,Verdadero;Falso,0,RECORDAR,VerdaderoFalso
+¿Cuál es la salida de 'System.out.println(3+4);'?,5;6;7;8,2,APLICAR,SeleccionMultiple
+¿Es posible heredar de múltiples clases en Java?,Verdadero;Falso,1,ANALIZAR,VerdaderoFalso
+¿Qué tipo de estructura es un árbol binario?,Lista;Grafo;Estructura jerárquica;Pila,2,COMPRENDER,SeleccionMultiple
+Selecciona la mejor práctica de POO,Herencia múltiple;Uso de GOTO;Encapsulamiento;Programación lineal,2,EVALUAR,SeleccionMultiple
+¿Qué instrucción se usa para salir de un bucle?,stop;end;break;exit,2,RECORDAR,SeleccionMultiple
+¿Cuál es el resultado de 10/2*3?,15;1.5;6;5,0,APLICAR,SeleccionMultiple
+¿Se puede sobrecargar métodos en Java?,Verdadero;Falso,0,CREAR,VerdaderoFalso
+¿Qué representa UML?,Un lenguaje de marcas;Un lenguaje de modelado;Un compilador;Un patrón,1,COMPRENDER,SeleccionMultiple
+¿Qué paradigma permite funciones como objetos?,Imperativo;Lógico;Funcional;Reactivo,2,ANALIZAR,SeleccionMultiple
+El operador `&&` representa...,OR lógico;AND lógico;Negación;Concatenación,1,RECORDAR,SeleccionMultiple
