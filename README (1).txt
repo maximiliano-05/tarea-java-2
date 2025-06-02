@@ -68,7 +68,7 @@ Ejemplo:
 
 1. Abrir el proyecto en IntelliJ IDEA o cualquier IDE compatible con Java.
 2. Ejecutar la clase `Main.java`.
-3. Al iniciar, cargar un archivo de preguntas válido.
+3. Al iniciar, **cargar el archivo `preguntas_ejemplo.txt`**, el cual contiene las preguntas en el formato requerido.
 4. Presionar "Iniciar prueba".
 5. Al finalizar, revisar las estadísticas y resultados.
 
